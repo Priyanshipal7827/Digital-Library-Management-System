@@ -95,7 +95,4 @@ src/main/webapp/
 - Email/SMS notifications for due dates
 - Export reports (PDF/CSV)
 
-## Author
 
-Priyanshi Pal
-B.Tech CSE (2022–2026) | Java Full Stack Developer
